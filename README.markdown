@@ -1,6 +1,6 @@
 # Stopwatch App
 
-**Tier:** 1-Beginner
+![techs](https://img.shields.io/badge/techs-ReactJS-green)
 
 A stopwatch helps you track the time you spent on activities.
 
